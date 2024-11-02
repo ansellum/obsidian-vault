@@ -1,0 +1,13 @@
+{
+  "files": [],
+  "templaterFiles": [],
+  "newFileTemplates": [
+    {
+      "folder": "1 - Quick Notes",
+      "path": "Quick Note.md",
+      "plugin": "core"
+    }
+  ],
+  "openNewFileTemplateInNewPane": true,
+  "useNewFileTemplateOnFileCreation": true
+}
