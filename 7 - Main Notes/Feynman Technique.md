@@ -21,4 +21,4 @@ The Feynman Technique is comprised of four sequential parts:
 
 # References
 
-[[The Feynman Technique - Master the Art of Learning]]
+[[3 - Source Material/The Feynman Technique - Master the Art of Learning]]

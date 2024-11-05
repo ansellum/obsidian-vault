@@ -11,7 +11,7 @@ I'm starting to get a hang of this note-taking business. I am using the Obsidian
 So far, I'm actually really liking it! The structure makes sense, the linking is cool, and best of all, its all local AND open-source. Perhaps I will aim to use Obsidian like Odysseas, since I do take interest in knowledge and connections, and fleshing out my own mind. Becoming a hobby scholar sounds fun to me because I like the idea of being educated in many areas, and being able to converse in many subjects. 
 
 #### Goals
-- [ ] Git Integration
+- [x] Git Integration
 - [x] Translate templates to iOS use
 
 # References

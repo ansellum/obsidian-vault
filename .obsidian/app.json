@@ -1,11 +1,12 @@
 {
-  "newFileLocation": "folder",
+  "newFileLocation": "root",
   "newFileFolderPath": "6 - Main Notes",
   "showInlineTitle": true,
   "showRibbon": true,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "shortest",
   "mobileToolbarCommands": [
+    "editor:insert-wikilink",
     "editor:indent-list",
     "editor:unindent-list",
     "editor:toggle-bullet-list",
@@ -22,9 +23,7 @@
     "editor:attach-file",
     "editor:undo",
     "editor:redo",
-    "editor:configure-toolbar"
-  ],
-  "userIgnoreFilters": [
-    "5 - Templates/"
+    "editor:configure-toolbar",
+    "editor:insert-tag"
   ]
 }

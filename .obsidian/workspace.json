@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aad6f20b29dbe0f0",
+        "id": "f72d4b85adcb0aaa",
         "type": "tabs",
         "children": [
           {
-            "id": "20fb98772454fe2e",
+            "id": "8bb2743fa75b4985",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -79,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 - Quick Notes/Topics to learn about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +89,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Topics to learn about"
             }
           },
           {
@@ -97,24 +98,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 - Quick Notes/Topics to learn about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "2ab3c8bea622d286",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Outgoing links from Topics to learn about"
             }
           },
           {
@@ -128,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -140,48 +129,48 @@
       "templates:Insert template": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "daily-notes:Open today's daily note": false,
-      "obsidian-git:Open Git source control": true
+      "obsidian-git:Open Git source control": true,
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "568a35bc8bba0382",
+  "active": "10fc3683b19cf5e6",
   "lastOpenFiles": [
+    "2 - Logs/2024 November 4th.md",
+    "6 - Templates/Log.md",
+    "2 - Logs",
+    "1 - Quick Notes/2024 November 4th.md",
+    "6 - Templates/Quick Note.md",
+    "7 - Main Notes/Introduction to Quantum Mechanics.md",
+    "7 - Main Notes/Mini-essays.md",
+    "7 - Main Notes/I'm not a menace of society.md",
+    "4 - Tags/self-worth.md",
+    "1 - Quick Notes/grocery list.md",
+    "4 - Tags/to-do.md",
+    "to-do.md",
+    "1 - Quick Notes/grocery lisy.md",
+    "1 - Quick Notes/Untitled.md",
     "1 - Quick Notes/Topics to learn about.md",
-    "6 - Main Notes/Feynman Technique.md",
-    "3 - Tags/social.md",
-    "3 - Tags/productivity.md",
-    "3 - Tags/learning.md",
-    "3 - Tags/journal.md",
-    "3 - Tags/apartment.md",
-    "3 - Tags/VGO.md",
-    "3 - Tags/Devin.md",
-    "3 - Tags",
-    "6 - Main Notes/Obsidian is pretty cool.md",
-    "6 - Main Notes/Mini-essays.md",
-    "6 - Main Notes/Halloween hangout + VGO.md",
+    "4 - Tags/physics.md",
+    "4 - Tags/quantum.md",
+    "4 - Tags/science.md",
+    "6 - Main Notes/Untitled 1.md",
+    "7 - Main Notes/Obsidian is pretty cool.md",
+    "6 - Templates/Main Note.md",
+    "1 - Quick Notes/Resumè to-do.md",
     "1 - Quick Notes/apartment hot water complaint.md",
-    "6 - Main Notes/My feelings about Devin.md",
+    "7 - Main Notes/Daylight savings day.md",
+    "7 - Main Notes/Feynman Technique.md",
+    "7 - Main Notes/Halloween hangout + VGO.md",
+    "4 - Tags/jobs.md",
+    "2 - Logs",
+    "4 - Tags",
     "2 - Daily Notes",
-    "5 - Templates/Quick Note.md",
-    "6 - Main Notes/2024-11-02.md",
-    "3 - Tags/Devin.md",
-    "3 - Tags/journal.md",
-    "2 - Source Material/Articles",
-    "2 - Source Material/Articles/The Feynman Technique - Master the Art of Learning.md",
-    "3 - Tags/learning.md",
-    "2 - Source Material/Videos/Mini Essays - The Ultimate Learning Tool.md",
-    "6 - Main Notes/Untitled.md",
-    "3 - Tags/productivity.md",
-    "3 - Tags/VGO.md",
-    "3 - Tags/feelings.md",
-    "5 - Templates/Main Note.md",
+    "3 - Source Material/Articles",
     "keep/todo/music",
     "keep/todo",
     "keep",
     "keep/notes",
     "keep/todo/archive",
-    "2 - Source Material/Videos",
-    "6 - Main Notes",
     "keep import/Assets/18181cc8e0b.af03d448e8508db2.jpg"
   ]
 }
