@@ -2,7 +2,7 @@
 `1:32am`
 
 *Status*:  #seed
-*Tags*:  [[reflection]] [[Devin]] [[productivity]]
+*Tags*:  [[journal]] [[Log Template]]
 
 
 # The Note

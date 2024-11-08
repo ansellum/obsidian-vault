@@ -1,5 +1,5 @@
 {
-  "format": "YYYY MMMM Do",
+  "format": "YYYYMMDD",
   "folder": "2 - Logs",
-  "template": ""
+  "template": "6 - Templates/Log Template"
 }

@@ -2,7 +2,7 @@
 9:58pm
 
 *Status*: #tree
-*Tags*:  [[Devin]] [[journal]] [[social]] [[VGO]]
+*Tags*:  [[Devin]] [[journal]]
 
 # The Note
 

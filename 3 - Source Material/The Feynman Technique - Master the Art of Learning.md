@@ -1,1 +1,0 @@
-Parrish, Shane. “The Feynman Technique: Master the Art of Learning.” Farnam Street, August 1, 2023. https://fs.blog/feynman-technique/.

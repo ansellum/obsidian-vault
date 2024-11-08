@@ -2,7 +2,7 @@
 `5:20pm`
 
 *Status*:  #seed
-*Tags*:  [[science]] [[physics]] [[quantum]]
+*Tags*:  [[science]] [[physics]]
 
 # The Note
 
