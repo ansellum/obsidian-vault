@@ -4,20 +4,7 @@
 *Tags*:  [[learning]] [[greatness]]
 
 # The Note
-### Biology
-- [ ] evolution & lifecycle
-	- [ ] jellyfish lifecycle
-- [ ] body biology
-	- [ ] cell creation and osmosis
-	- [ ] mitochondria and RNA/DNA origin
-	- [ ] genes and chromosomes
-	- [ ] the immune system
-		- get Phillip Demeter's book on immune system?
-- [ ] other weirdness
-	- [ ] tonic immobility
-### Physics
-- [ ] Quantum Mechanics, up to Tensors?
-- [ ] The current unknowns of deep space like black holes and dark matter
+
 ### Music
 - [ ] band history (Casiopea, Depeche Mode, etc.)
 - [ ] Music Theory
@@ -33,6 +20,20 @@
 	- [ ] modprobe, systemd, etc
 	- [ ] wayland vs X11
 	- [ ] command syntax (find, xargs)
+### Physics
+- [ ] Quantum Mechanics, up to Tensors?
+- [ ] The current unknowns of deep space like black holes and dark matter
+### Biology
+- [ ] evolution & lifecycle
+	- [ ] jellyfish lifecycle
+- [ ] body biology
+	- [ ] cell creation and osmosis
+	- [ ] mitochondria and RNA/DNA origin
+	- [ ] genes and chromosomes
+	- [ ] the immune system
+		- get Phillip Demeter's book on immune system?
+- [ ] other weirdness
+	- [ ] tonic immobility
 ### History
 - [ ] u.s. history
 	- american yawp
