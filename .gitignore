@@ -1,0 +1,7 @@
+# Exclude obsidian plugins and workspace
+.obsidian/plugins
+.obsidian/workspace.json
+
+# OS files
+.trash/
+.DS_Store
